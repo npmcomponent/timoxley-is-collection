@@ -1,4 +1,4 @@
-var typeOf = require('type')
+var typeOf = require('component-type')
 
 /**
  * Evaluates _obj_ to determine if it's an array, an array-like collection, or
